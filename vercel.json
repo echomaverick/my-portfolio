@@ -1,0 +1,13 @@
+{
+	"$schema": "https://openapi.vercel.sh/vercel.json",
+	"version": 2,
+	"alias": "sam.dev",
+	"cleanUrls": true,
+	"public": true,
+	"regions": ["lhr1"],
+	"redirects": [
+		{ "source": "/github", "destination": "https://github.com/echomaverick" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/samueldervishi" },
+		{ "source": "/portfolio", "destination": "https://www.github.com/echomaverick" }
+	]
+}
