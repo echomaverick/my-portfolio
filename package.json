@@ -1,10 +1,10 @@
 {
 	"private": true,
-	"name": "nuro.dev",
+	"name": "sam.dev",
 	"version": "2.1.1",
-	"description": "Personal Website for nuro.dev",
-	"repository": "https://github.com/nurodev/nuro.dev.git",
-	"author": "nurodev <me@nuro.dev>",
+	"description": "Personal Website for sam.dev",
+	"repository": "https://github.com/echomaverick/curly-disco.git",
+	"author": "",
 	"license": "MIT",
 	"prettier": {
 		"arrowParens": "always",
