@@ -19,8 +19,8 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		href: 'https://www.github.com/echomaverick',
-		icon: <Icon className="mr-3" icon="feather:copy" />,
-		text: 'Projects',
+		icon: <Icon className="mr-3" icon="feather:github" />,
+		text: 'Github',
 	},
 ];
 
