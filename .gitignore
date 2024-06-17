@@ -46,9 +46,4 @@ yarn-error.log*
 # Vercel
 .vercel
 
-.prettierignore
-next-env.d.ts
-next-config.js
-pnpm-lock.yaml
-package-lock.json
 nuro.dev-main
