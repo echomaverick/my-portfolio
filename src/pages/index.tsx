@@ -22,6 +22,12 @@ const ACTIONS: Array<NavigationItem> = [
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
+	{
+		type: NavigationItemType.LINK,
+		href: '/projects',
+		icon: <Icon className="mr-3" icon="feather:copy" />,
+		text: 'Projects',
+	},
 ];
 
 export default function HomePage(): JSX.Element {
