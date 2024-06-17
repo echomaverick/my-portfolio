@@ -21,6 +21,12 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			text: 'Timeline',
 			href: '/timeline',
 		},
+		{
+			type: NavigationItemType.LINK,
+			icon: 'feather:copy',
+			text: 'Projects',
+			href: '/projects',
+		},
 	],
 	[
 		{

@@ -1,1 +1,42 @@
-[]
+[
+	{
+		"date": "05-23-2024",
+		"title": "Chatbot Project",
+		"description": "AI Chatbot is a conversational agent powered by artificial intelligence. ",
+		"icon": "feather:message-square",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/chatbot"
+		}
+	},
+	{
+		"date": "09-19-2023",
+		"title": "CareerCrush",
+		"description": "Swipe to your dream job",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit CareerCrush",
+			"url": "https://career-crush.com/"
+		}
+	},
+	{
+		"date": "09-01-2023",
+		"title": "Serverless To Do application",
+		"description": "Proventus Nexus is a project management application built with ReactJS and AWS Amplify.",
+		"icon": "feather:list",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/ToDoApp-serverless-framework"
+		}
+	},
+	{
+		"date": "09-19-2023",
+		"title": "Task and Project Management",
+		"description": "Task and project management application using AWS CDK",
+		"icon": "feather:list",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/Task-and-Project-Management-Web-Application"
+		}
+	}
+]
