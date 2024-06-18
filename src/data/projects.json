@@ -38,5 +38,45 @@
 			"text": "Visit",
 			"url": "https://github.com/echomaverick/Task-and-Project-Management-Web-Application"
 		}
+	},
+	{
+		"date": "02-08-2024",
+		"title": "Quotes Website",
+		"description": "This is a simple ReactJS web application that displays random quotes.",
+		"icon": "feather:layout",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/quotes-website"
+		}
+	},
+	{
+		"date": "02-22-2024",
+		"title": "Web Projects Collections",
+		"description": "Welcome to the Web Projects Collection repository!",
+		"icon": "feather:copy",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/web-projects-collection"
+		}
+	},
+	{
+		"date": "10-25-2023",
+		"title": "Simple admin dashboard",
+		"description": "Admin dashboard using AWS and MongoDB",
+		"icon": "feather:layout",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/simple-admin-dashboard"
+		}
+	},
+	{
+		"date": "05-24-2023",
+		"title": "Task Web App",
+		"description": "Task Web App using C# and ASP.NET",
+		"icon": "feather:list",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/ToDoTasks"
+		}
 	}
 ]

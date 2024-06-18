@@ -27,6 +27,12 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			text: 'Projects',
 			href: '/projects',
 		},
+		{
+			type: NavigationItemType.LINK,
+			icon: 'feather:copy',
+			text: 'Certificates',
+			href: '/certificates',
+		},
 	],
 	[
 		{

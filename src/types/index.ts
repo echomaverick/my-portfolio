@@ -10,3 +10,4 @@ export * from './referrals';
 export * from './state';
 export * from './theme';
 export * from './timeline';
+export * from './certificates';
