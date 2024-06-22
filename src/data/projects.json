@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"date": "07-20-2024",
+		"title": "Simple social media app",
+		"description": "This is a simple social media application that is still under development.",
+		"icon": "feather:message-square",
+		"link": {
+			"text": "Visit",
+			"url": "https://github.com/echomaverick/cautious-robot"
+		}
+	},
+	{
 		"date": "09-19-2023",
 		"title": "CareerCrush",
 		"description": "Swipe to your dream job",
