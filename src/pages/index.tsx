@@ -52,7 +52,7 @@ export default function HomePage(): JSX.Element {
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
 						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
 						I&apos;m Sam, <br className="hidden sm:block" />a{' '}
-						<Pill.Standard className="mt-4">developer</Pill.Standard>
+						<Pill.Standard className="mt-4">Java developer</Pill.Standard>
 					</Animate>
 
 					<Animate
