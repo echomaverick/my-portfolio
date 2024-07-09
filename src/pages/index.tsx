@@ -37,16 +37,10 @@ const ACTIONS: Array<NavigationItem> = [
 ];
 
 export default function HomePage(): JSX.Element {
-	const today = new Date();
-	const birthday = new Date('1997-08-09');
-	const isBirthday =
-		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
-
 	const description = `Writing code 'probably'`;
 
 	return (
 		<Layout.Default>
-			{isBirthday && <Event event={EventType.BIRTHDAY} />}
 			<div className="min-h-screen flex items-center justify-center py-12">
 				<div className="max-w-md sm:max-w-lg md:sm:max-w-2xl lg:sm:max-w-3xl w-full space-y-8 text-center">
 					<Animate
