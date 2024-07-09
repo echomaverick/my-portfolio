@@ -28,6 +28,12 @@ const ACTIONS: Array<NavigationItem> = [
 		icon: <Icon className="mr-3" icon="feather:copy" />,
 		text: 'Projects',
 	},
+	{
+		type: NavigationItemType.LINK,
+		href: 'https://echomaverick.github.io/web-projects-collection/',
+		icon: <Icon className="mr-3" icon="feather:layers" />,
+		text: 'Stack Game',
+	},
 ];
 
 export default function HomePage(): JSX.Element {
@@ -36,7 +42,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `Writing code probably`;
+	const description = `Writing code 'probably'`;
 
 	return (
 		<Layout.Default>
@@ -50,8 +56,9 @@ export default function HomePage(): JSX.Element {
 							scale: [0.75, 1],
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
-						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						I&apos;m Sam, <br className="hidden sm:block" />a{' '}
+						I&apos;m Sam
+						<span className="inline-block origin-70 hover:(animate-wave)">👋</span>, a
+						<br className="hidden sm:block" />{' '}
 						<Pill.Standard className="mt-4">Java developer</Pill.Standard>
 					</Animate>
 
