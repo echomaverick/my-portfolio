@@ -30,7 +30,7 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
-		href: 'https://echomaverick.github.io/web-projects-collection/',
+		href: 'https://nullerrornemesis.github.io/web-projects-collection/',
 		icon: <Icon className="mr-3" icon="feather:layers" />,
 		text: 'Stack Game',
 	},
