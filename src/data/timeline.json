@@ -36,11 +36,5 @@
 		"title": "Started University",
 		"description": "Began studying Business Informatics at University of Tirana,  Faculty of Economy",
 		"icon": "feather:book"
-	},
-	{
-		"date": "04-22-2003",
-		"title": "Birthday!",
-		"description": "I was born the 22th of April 2003",
-		"icon": "feather:gift"
 	}
 ]

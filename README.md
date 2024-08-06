@@ -1,4 +1,3 @@
-
 # Portfolio
 
 This is a portfolio website template built using Vue.js SCSS. With just a few simple steps, you can have your own portfolio up and running in no time.
@@ -7,28 +6,32 @@ This is a portfolio website template built using Vue.js SCSS. With just a few si
 
 To get started follow these simple steps:
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/echomaverick/curly-disco.git
-   ```
+1. **Clone the Repository**:
+
+    ```bash
+    git clone https://github.com/nullerrornemesis/my-portfolio.git
+    ```
 
 2. **Navigate to the Project Directory**:
-   ```bash
-   cd curly-disco
-   ```
+
+    ```bash
+    cd my-portfolio
+    ```
 
 3. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
+
+    ```bash
+    npm install
+    ```
 
 4. **Run the Development Server**:
-   ```bash
-   npm run dev
-   ```
+
+    ```bash
+    npm run dev
+    ```
 
 5. **Open in your Browser**:
-   Open your browser and go to `http://localhost:3000` to see the website live!
+   Open your browser and go to `http://localhost:3001` to see the website live!
 
 ## Customization
 
@@ -47,4 +50,3 @@ This will generate an optimized version of your portfolio in the `.next` directo
 ## Feedback
 
 If you have any feedback, questions, or suggestions for improvements, feel free to [open an issue](https://github.com/echomaverick/curly-disco/issues) or [submit a pull request](https://github.com/echomaverick/curly-disco/pulls). Your contributions are highly appreciated!
-
