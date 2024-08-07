@@ -17,18 +17,6 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		},
 		{
 			type: NavigationItemType.LINK,
-			icon: 'feather:clock',
-			text: 'Timeline',
-			href: '/timeline',
-		},
-		{
-			type: NavigationItemType.LINK,
-			icon: 'feather:copy',
-			text: 'Projects',
-			href: '/projects',
-		},
-		{
-			type: NavigationItemType.LINK,
 			icon: 'feather:copy',
 			text: 'Certificates',
 			href: '/certificates',
@@ -47,6 +35,13 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			icon: 'feather:instagram',
 			text: 'Instagram',
 			href: 'https://instagram.com/samueldervishi_',
+			external: true,
+		},
+		{
+			type: NavigationItemType.LINK,
+			icon: 'feather:twitter',
+			text: 'Twitter',
+			href: 'https://x.com/specialistRopt',
 			external: true,
 		},
 	],
