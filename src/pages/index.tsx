@@ -18,7 +18,7 @@ const Event = dynamic<EventProps>(
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
-		href: 'https://www.github.com/nullerrornemesis',
+		href: 'https://www.github.com/samueldervishi1',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
@@ -30,7 +30,7 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
-		href: 'https://nullerrornemesis.github.io/web-projects-collection/',
+		href: 'https://samueldervishi1.github.io/web-projects-collection/',
 		icon: <Icon className="mr-3" icon="feather:layers" />,
 		text: 'Stack Game',
 	},
