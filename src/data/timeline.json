@@ -1,0 +1,40 @@
+[
+	{
+		"date": "12-03-2023",
+		"title": "Started @ Tegeria",
+		"description": "Joined the Tegeria team as a java developer",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Tegeria",
+			"url": "https://tegeria.com/"
+		}
+	},
+	{
+		"date": "10-24-2023",
+		"title": "Intern @ Taleas",
+		"description": "Successfully completed my internship as a software developer",
+		"icon": "feather:award",
+		"link": {
+			"text": "Visit Taleas",
+			"url": "https://taleas.io/"
+		}
+	},
+	{
+		"date": "06-02-2023",
+		"title": "Intern @ Coders",
+		"description": "Successfully completed internship at Coders as a Nextjs developer",
+		"icon": "feather:award"
+	},
+	{
+		"date": "09-24-2022",
+		"title": "Started @ YP Canada",
+		"description": "Joined the YP Canada team as a sales representative",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "09-18-2021",
+		"title": "Started University",
+		"description": "Began studying Business Informatics at University of Tirana,  Faculty of Economy",
+		"icon": "feather:book"
+	}
+]

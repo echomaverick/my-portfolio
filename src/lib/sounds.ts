@@ -11,7 +11,8 @@ export function useClick(): ReturnedValue | [() => void, null] {
 
 	if (!state.get().sound)
 		return [
-			(): void => { },
+			// eslint-disable-next-line @typescript-eslint/no-empty-function
+			(): void => {},
 			null,
 		];
 
