@@ -6,8 +6,8 @@
 	"public": true,
 	"regions": ["lhr1"],
 	"redirects": [
-		{ "source": "/github", "destination": "https://github.com/echomaverick" },
+		{ "source": "/github", "destination": "https://github.com/nullerrornemesis" },
 		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/samueldervishi" },
-		{ "source": "/portfolio", "destination": "https://www.github.com/echomaverick" }
+		{ "source": "/portfolio", "destination": "https://www.github.com/nullerrornemesis" }
 	]
 }
